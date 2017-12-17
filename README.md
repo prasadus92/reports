@@ -69,5 +69,5 @@ com.hubrick.reports.Application can also be run as a standalone jar, however,
 data source directory will have to be explicitly specified as a first parameter as follows:
 
 ```
-$ java -jar build/libs/reports-0.1.0-SNAPSHOT.jar <SOURCE_DIR>
+$ java -jar build/libs/reports-0.0.1-SNAPSHOT.jar <SOURCE_DIR>
 ```
